@@ -95,10 +95,10 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| 🕵️ **OSCAR** | AI-Based OSINT Threat Intelligence Platform | LLM Agents · NLP · FastAPI | [Repo](https://github.com/amanraj74) |
-| 📈 **BharatTrend Analytics** | Multilingual Sentiment-to-Sales Predictor — **97.46% acc.** | Random Forest · Scikit-learn · Sentiment Analysis | [Repo](https://github.com/amanraj74) |
-| 🛡️ **DeepGuard-AI** | Vision Transformer Media Analysis System | ViT · FastAPI · Streamlit · Computer Vision | [Repo](https://github.com/amanraj74) |
-| ⚡ **NeuroHack EEG** | EEG Emotion Recognition — IIT Madras **Top 10 Finalist** | Signal Processing · Deep Learning · Ensemble | [Repo](https://github.com/amanraj74) |
+| 🕵️ **OSCAR** | AI-Based OSINT Threat Intelligence Platform | LLM Agents · NLP · FastAPI | [Repo](https://github.com/amanraj74/-OSCAR---Analysis-Reporting-AI-Based-Military-Intelligence-) |
+| 📈 **BharatTrend Analytics** | Multilingual Sentiment-to-Sales Predictor — **97.46% acc.** | Random Forest · Scikit-learn · Sentiment Analysis | [Repo](https://github.com/amanraj74/BharatTrend-Analytics) |
+| 🛡️ **DeepGuard-AI** | Vision Transformer Media Analysis System | ViT · FastAPI · Streamlit · Computer Vision | [Repo](https://github.com/amanraj74/DeepGuard-AI) |
+| ⚡ **NeuroHack EEG** | EEG Emotion Recognition — IIT Madras **Top 10 Finalist** | Signal Processing · Deep Learning · Ensemble | [Repo](https://github.com/amanraj74/Neurohack) |
 
 ---
 
@@ -136,7 +136,7 @@
   🏆 NeuroHack Top 10      — IIT Madras (Global)
   🥈 Pan-IIT Finalists × 3 — IIT Ropar · IIT Patna
 
-> echo "motto"
+> 
   Build fast. Break barriers. Learn always.
 ```
 
