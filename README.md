@@ -18,8 +18,8 @@
 ## 🤖 About Me
 
 ```bash
-> whoami
-🎓 Aman Jaiswal | AI/ML Engineer | IIT Ropar — Minor in Artificial Intelligence
+> who am i
+🎓 Aman Jaiswal | AI/ML Engineer | IIT Ropar — Major in Artificial Intelligence
 
 > pwd
 ~/research/multilingual-nlp-speech-ai
@@ -90,13 +90,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanraj74&theme=tokyonight&column=4&no-frame=true&margin-w=8&margin-h=8" />
-</div>
-
----
 
 ## 🔥 Featured Projects
 
